@@ -1,5 +1,5 @@
 # positionsDB
-It's an addon for Tes3MP that saves position and rotation of player into LUA MODULE file, that can be then directly used by other scripts.
+It's an addon for Tes3MP that saves position and rotation of player into LUA MODULE file that can be then directly used by other scripts.
 
 ## Installation
 1. Download the ```main.lua``` and put it in */server/scripts/custom/positionsDB*
